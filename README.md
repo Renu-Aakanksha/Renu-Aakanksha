@@ -2,8 +2,6 @@
 <h3 align="center">A dedicated Master's student at the University of Texas at Arlington with a GPA of 3.86/4.0, currently serving as a Graduate Teaching Assistant at UTA, expecting to graduate in December 2024. With hands-on experience as a Software Developer at Head Digital Works and an intern at IHS Markit, an MNC. My projects, ranging from sentiment analysis systems to virtual reality 3D models, showcase my passion for innovative problem-solving and technical excellence. My journey is driven by a relentless pursuit of knowledge and a commitment to impactful contributions in the tech industry.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 👨‍💻 All of my projects are available at [www.aakankshav.com](www.aakankshav.com)
-
 - 📫 How to reach me **renu.aakanksha06@gmail.com**
 
 - 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/1wKiTBsij_2UTJckE9JQ6EcaM9bMW4ULn/view?usp=sharing)
