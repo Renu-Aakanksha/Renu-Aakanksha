@@ -14,7 +14,7 @@ Here’s to building cool things together—one commit at a time! 🚀✨
 
 - 📫 How to reach me **renu.aakanksha06@gmail.com**
 
-- 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/1wKiTBsij_2UTJckE9JQ6EcaM9bMW4ULn/view?usp=sharing)
+- 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/12gQriHVVwqy-gTnNm_wmDWOsCntSKtrL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
