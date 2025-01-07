@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **renu.aakanksha06@gmail.com**
 
-- 📄 Know about my experiences [resume Link](https://docs.google.com/document/d/1KbhOBlf-8v7fLTWyH9tf2Yi01rL74s54/edit?usp=sharing&ouid=106977464689904098009&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/1wKiTBsij_2UTJckE9JQ6EcaM9bMW4ULn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
