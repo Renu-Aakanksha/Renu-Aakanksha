@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Renu Aakanksha Veesam</h1>
-<h3 align="center">A dedicated Master's student at the University of Texas at Arlington with a GPA of 3.86/4.0, currently serving as a Graduate Teaching Assistant at UTA, expecting to graduate in December 2024. With hands-on experience as a Software Developer at Head Digital Works and an intern at IHS Markit, an MNC. My projects, ranging from sentiment analysis systems to virtual reality 3D models, showcase my passion for innovative problem-solving and technical excellence. My journey is driven by a relentless pursuit of knowledge and a commitment to impactful contributions in the tech industry.</h3>
+<h3 align="center">Welcome to my corner of the coding universe 🌌, where Java meets React Native, and ideas turn into scalable, high-performance apps 🚀.
+
+With a passion for crafting solutions that scale, I’ve built web platforms for 100M+ users, keeping them running at 99.9% reliability (because nobody likes downtime, right?). Whether it’s fine-tuning databases 🛠 or designing microservices, I’m all about optimizing systems and delivering next-level performance.
+
+With a Master’s in Computer Science  and a knack for machine learning, I’ve deployed AI models that make predictions as accurate as a 97%.
+
+When I’m not coding, you’ll probably find me exploring the latest in tech, gaming my way through life 🎮, or experimenting with sugar-free dessert recipes 🍰 (yes, they can be delicious!)Trust me!!!.
+
+Here’s to building cool things together—one commit at a time! 🚀✨
+
+</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 📫 How to reach me **renu.aakanksha06@gmail.com**
