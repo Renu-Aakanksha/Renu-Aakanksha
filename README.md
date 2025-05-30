@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Renu Aakanksha Veesam</h1>
-<h3 align="center">Welcome to my corner of the coding universe 🌌, where Java meets React Native, and ideas turn into scalable, high-performance apps 🚀.
+<h1 align="center">Hi 👋, I'm Renu Aakanksha Veesam</h1> <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | Scalable Systems Architect</h3> <p align="center">From high-traffic gaming platforms to AI-powered analytics dashboards, I design systems that scale, perform, and deliver measurable impact.</p> 
+🔧 Currently building backend infrastructure and real-time features at Soulstice, a next-gen dating platform.
 
-With a passion for crafting solutions that scale, I’ve built web platforms for 100M+ users, keeping them running at 99.9% reliability (because nobody likes downtime, right?). Whether it’s fine-tuning databases 🛠 or designing microservices, I’m all about optimizing systems and delivering next-level performance.
+🌐 Delivered microservices and event-driven systems used by millions—with 99.9% uptime.
 
-With a Master’s in Computer Science  and a knack for machine learning, I’ve deployed AI models that make predictions as accurate as a 97%.
+📊 Developed AI-powered tools that hit up to 97% prediction accuracy and automated workflows that saved 60% effort for users.
 
-When I’m not coding, you’ll probably find me exploring the latest in tech, gaming my way through life 🎮, or experimenting with sugar-free dessert recipes 🍰 (yes, they can be delicious!)Trust me!!!.
+🧠 Passionate about combining software engineering with ML to create data-informed, resilient systems.
 
-Here’s to building cool things together—one commit at a time! 🚀✨
+☁️ Skilled across Java, Spring Boot, Angular, Node.js, Python, and cloud platforms like AWS and Azure.
 
 </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 📫 How to reach me **renu.aakanksha06@gmail.com**
 
-- 📄 Know about my experiences [resume Link](https://drive.google.com/file/d/12gQriHVVwqy-gTnNm_wmDWOsCntSKtrL/view?usp=sharing)
+- 📄 Know about my experiences [resume Link](https://docs.google.com/document/d/1N-MRlm5ZZ2-_tLIl0UDcvXxvEExkx3kIxOd9W0AP_x8/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
