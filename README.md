@@ -7,7 +7,7 @@
 
 🧠 Passionate about combining software engineering with ML to create data-informed, resilient systems.
 
-☁️ Skilled across Java, Spring Boot, Angular, Node.js, Python, and cloud platforms like AWS and Azure.
+☁️ Skilled across Java, Spring Boot, Angular, React, Next.js, Node.js, Python, and cloud platforms like AWS.
 
 </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
