@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renu Aakanksha Veesam</h1> <h3 align="center">Sr Full-Stack Developer| Scalable Systems Architect</h3> <p align="center">From high-traffic gaming platforms to AI-powered analytics dashboards and dating app, I design systems that scale, perform, and deliver measurable impact.</p> 
+<h1 align="center">Hi 👋, I'm Renu Aakanksha Veesam</h1> <h3 align="center">Sr Software Developer| Scalable Systems Architect</h3> <p align="center">From high-traffic gaming platforms to AI-powered analytics dashboards and dating app, I design systems that scale, perform, and deliver measurable impact.</p> 
 🔧 Currently building backend infrastructure and real-time features at Soulstice, a next-gen dating platform.
 
 🌐 Delivered microservices and event-driven systems used by millions—with 99.9% uptime.
